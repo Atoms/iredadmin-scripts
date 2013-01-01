@@ -8,7 +8,7 @@
 //
 // You can run this from your crontab with something like
 //
-// 0 4 * * * *	php -q virtualmaildel.php >/dev/null
+// 0 4 * * *	php -q virtualmaildel.php >/dev/null
 
 ################################
 ##	
